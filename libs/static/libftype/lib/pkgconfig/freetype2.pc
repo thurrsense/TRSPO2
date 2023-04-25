@@ -1,0 +1,14 @@
+prefix=/home/f7kso/hello/lab1/libs/static/libftype
+exec_prefix=/home/f7kso/hello/lab1/libs/static/libftype
+libdir=/home/f7kso/hello/lab1/libs/static/libftype/lib
+includedir=/home/f7kso/hello/lab1/libs/static/libftype/include
+
+Name: FreeType 2
+URL: https://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 25.0.19
+Requires: 
+Requires.private: 
+Libs: -L/home/f7kso/hello/lab1/libs/static/libftype/lib -lfreetype
+Libs.private: -lz
+Cflags: -I${includedir}/freetype2
