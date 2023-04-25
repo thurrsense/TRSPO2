@@ -22,29 +22,29 @@ Makefile has different types of usage:
 8. libdynamic
 
 Directory lab1 tree:
-.
-├── app
-│   └── main.c
-├── build
-│   ├── app-dynamic.bin
-│   └── app-static.bin
-├── freetype
-│   ├── include
-│   │   └── freetype2
-│   │       ├── freetype
-│   │       │   ├── config
-│   │       │   └── *.h
-│   │       └── *.h
-│   ├── lib
-│   └── src
-├── libpng
-│   ├── include
-│   ├── lib
-│   └── src
-├── libs
-│   ├── dynamic
-│   └── static
-├── Makefile
-└── zlib
+. <br>
+├── app <br>
+│   └── main.c <br>
+├── build <br>
+│   ├── app-dynamic.bin <br>
+│   └── app-static.bin <br>
+├── freetype <br>
+│   ├── include <br>
+│   │   └── freetype2 <br>
+│   │       ├── freetype <br>
+│   │       │   ├── config <br>
+│   │       │   └── *.h <br>
+│   │       └── *.h <br>
+│   ├── lib <br>
+│   └── src <br>
+├── libpng <br>
+│   ├── include <br>
+│   ├── lib <br>
+│   └── src <br>
+├── libs <br>
+│   ├── dynamic <br>
+│   └── static <br>
+├── Makefile <br>
+└── zlib <br>
   
 
