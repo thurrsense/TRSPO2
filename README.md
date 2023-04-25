@@ -22,9 +22,9 @@ Makefile has different types of usage:
 8. libdynamic
 
 Directory lab1 tree:
-.__
-├── app__
-│   └── main.c__
+.
+├── app
+│   └── main.c
 ├── build
 │   ├── app-dynamic.bin
 │   └── app-static.bin
